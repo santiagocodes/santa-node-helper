@@ -24,4 +24,7 @@ For example:
 `))(((((` also results in floor 3.
 `())` and `))(` both result in floor -1 (the first basement level).
 `)))` and `)())())` both result in floor -3.
+
 To what floor do the instructions take Santa?
+
+Puzzle Input Part 1: [https://adventofcode.com/2015/day/1/input](https://adventofcode.com/2015/day/1/input)
